@@ -1,8 +1,17 @@
+@media screen and (max-width: 1024px){
+	input.numer{
+		width: 8%;
+		text-align: left;
+		text-indent: 1px;
+	}
+	#resultado{
+		width: 30%;
+	}
+}
 @media screen and (max-width: 800px){
 	input.numer{
-		width: 10%;
-		text-align: center;
-		text-indent: 1px;
+		width: 13%;
+		text-align: left;
 	}
 	#resultado{
 		width: 60%;
@@ -14,7 +23,7 @@
 @media screen and (max-width: 768px){
 	input.numer{
 		width: 11%;
-		text-align: center;
+		text-align: left;
 		text-indent: 1px;
 	}
 	input[type=button]{
@@ -29,12 +38,48 @@
 		width: 60%;
 	}
 }
+@media screen and (max-width: 640px){
+	input.numer{
+		width: 13%;
+	}
+}
+@media screen and (max-width: 600px){
+	input.numer{
+		width: 14%;
+	}
+}
+@media screen and (max-width: 480px){
+	input.numer{
+		width: 18%;
+	}
+}
+@media screen and (max-width: 425px){
+	input.numer{
+		width: 21%;
+	}
+}
+@media screen and (max-width: 414px){
+	input.numer{
+		width: 21%;
+	}
+}
 @media screen and (max-width: 384px){
+	input.numer{
+		width: 22%;
+	}
 	#resultado{
 		font-size: 18px;
 	}
 }
+@media screen and (max-width: 375px){
+	input.numer{
+		width: 24%;
+	}
+}
 @media screen and (max-width: 360px){
+	input.numer{
+		width: 25%;
+	}
 	#resultado{
 		width: 85%;
 		font-size: 18px;
@@ -42,7 +87,7 @@
 }
 @media screen and (max-width: 320px){
 	input.numer{
-		width: 15%;
+		width: 28%;
 	}
 }
 @media screen and (max-width: 280px){
@@ -52,7 +97,10 @@
 }
 @media screen and (max-width: 240px){
 	input.numer{
-		width: 20%;
+		width: 40%;
+	}
+	#resultado{
+		font-size: 14px;
 	}
 }
 

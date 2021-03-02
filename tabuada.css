@@ -37,11 +37,11 @@ input[type=button]{
 
 }
 input.numer{
-	width:5%;
+	width:8%;
 	border-radius: 5px;
 	padding: 10px;
-	text-align:left;
-	text-indent: 5px;
+	text-align:center;
+	text-indent: 8px;
 	font-size: 20px;
 }
 #resultado{
