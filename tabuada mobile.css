@@ -1,0 +1,58 @@
+@media screen and (max-width: 800px){
+	input.numer{
+		width: 10%;
+		text-align: center;
+		text-indent: 1px;
+	}
+	#resultado{
+		width: 60%;
+	}
+	input[type=button]{
+		padding: 10px;
+	}
+}
+@media screen and (max-width: 768px){
+	input.numer{
+		width: 11%;
+		text-align: center;
+		text-indent: 1px;
+	}
+	input[type=button]{
+		padding: 15px;
+		display: flex;
+		margin: 10px auto;
+	}
+	input[type=button]:hover{
+		background-color:#080E;
+	}
+	#resultado{
+		width: 60%;
+	}
+}
+@media screen and (max-width: 384px){
+	#resultado{
+		font-size: 18px;
+	}
+}
+@media screen and (max-width: 360px){
+	#resultado{
+		width: 85%;
+		font-size: 18px;
+	}
+}
+@media screen and (max-width: 320px){
+	input.numer{
+		width: 15%;
+	}
+}
+@media screen and (max-width: 280px){
+	#resultado{
+		font-size: 16px;
+	}
+}
+@media screen and (max-width: 240px){
+	input.numer{
+		width: 20%;
+	}
+}
+
