@@ -1,2 +1,2 @@
 Tabuada Online Responsiva
-Tecnologias: HTML CSS JS
+Tecnologias: **HTML CSS JS**
