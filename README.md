@@ -1,1 +1,2 @@
-# tabuada-online.github.io
+Tabuada Online Responsiva
+Tecnologias: HTML CSS JS
